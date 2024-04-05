@@ -1,0 +1,26 @@
+{
+    "name": "meanstackappcourse",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node app"
+    },
+    "dependencies": {
+        "angular2-flash-messages": "^1.0.8",
+        "angular2-jwt": "^0.2.3",
+        "bcryptjs": "*",
+        "body-parser": "*",
+        "cors": "*",
+        "express": "*",
+        "express-session": "^1.18.0",
+        "jsonwebtoken": "*",
+        "mongoose": "*",
+        "passport": "*",
+        "passport-jwt": "*",
+        "reflect-metadata": "^0.2.2"
+    },
+    "author": "",
+    "license": "ISC"
+}
